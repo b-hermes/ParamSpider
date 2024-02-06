@@ -59,7 +59,11 @@ Here are a few examples of how to use `paramspider`:
     ```sh 
     paramspider -d example.com -s
     ```
+- Save all output in one file:
 
+    ```sh 
+    paramspider -d example.com -o output_file.txt
+    ```
 - Set up web request proxy:
 
     ```sh
