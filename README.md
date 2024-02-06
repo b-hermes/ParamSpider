@@ -25,11 +25,14 @@
 To install `paramspider`, follow these steps:
 
 ```sh
-git clone https://github.com/devanshbatham/paramspider
+git clone https://github.com/b-hermes/paramspider
 cd paramspider
 pip install .
 ```
-
+If you already got the tool instaled, but want to make changes to the main file, here's the location:
+```
+/usr/local/lib/python3.8/dist-packages/paramspider
+```
 ## Usage
 
 To use `paramspider`, follow these steps:
